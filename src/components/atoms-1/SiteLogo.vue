@@ -13,5 +13,6 @@ export default {
 <style scoped lang="scss">
 .site-logo {
   width: 120px;
+  cursor: pointer;
 }
 </style>

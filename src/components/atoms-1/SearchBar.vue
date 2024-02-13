@@ -44,12 +44,13 @@ export default {
   }
 
   &__image {
-    width: 30px;
+    width: 24px;
     height: 44px;
     padding: 0 12px;
     border: 1px solid #2c3133;
     margin-left: -1px;
     border-radius: 0 25px 25px 0;
+    background-color: #ffffff19;
   }
 }
 </style>
