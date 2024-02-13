@@ -1,5 +1,7 @@
 <template>
-  <img class="site-logo" src="../../assets/youtube-logo.svg" alt="" />
+  <section>
+    <img class="site-logo" src="../../assets/youtube-logo.svg" alt="" />
+  </section>
 </template>
 
 <script>

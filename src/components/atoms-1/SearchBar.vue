@@ -1,5 +1,5 @@
 <template>
-  <div class="search">
+  <section class="search">
     <input
       class="search__input"
       type="text"
@@ -11,7 +11,7 @@
       src="../../assets//icons/search-icon.svg"
       alt=""
     />
-  </div>
+  </section>
 </template>
 
 <script>

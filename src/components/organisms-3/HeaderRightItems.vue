@@ -1,5 +1,5 @@
 <template>
-  <div class="header-links">
+  <section class="header-links">
     <img
       class="header-links__icon"
       src="../../assets/icons/camera-icon.svg"
@@ -15,7 +15,7 @@
       src="../../assets/channel-logo.jpg"
       alt=""
     />
-  </div>
+  </section>
 </template>
 
 <script>

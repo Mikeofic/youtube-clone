@@ -1,9 +1,9 @@
 <template>
-  <div class="main-header">
+  <header class="main-header">
     <SiteLogo />
     <SearchBar />
     <HeaderRightItems />
-  </div>
+  </header>
 </template>
 
 <script>
